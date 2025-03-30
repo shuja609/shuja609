@@ -109,10 +109,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shuja609&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="Achievement Matrix"/>
 </div>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shujaa-Dev&layout=compact&hide_border=true&title_color=00FFB3&text_color=FFFFFF&bg_color=000000" />
-  <img width="41%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=Shujaa-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=000000&title_color=00FFB3" />
-</div>
+
 
 <h2 align="center">
   🌐 Connect with Me
