@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:  # Allows manual triggering
-
+# Gives the workflow permissions to commit to the output branch
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
