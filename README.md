@@ -230,7 +230,7 @@
           <code>MERN • JWT • Multer • Chart.js</code>
         </p>
         <div>
-          <a href="https://drive-sync.vercel.app" target="_blank">
+          <a href="https://drive-sync-chi.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00FFB3" alt="Live Demo" />
           </a>
           <a href="https://github.com/shuja609/DriveSync" target="_blank">
