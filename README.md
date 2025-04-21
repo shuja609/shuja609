@@ -251,7 +251,7 @@
           <code>React • TypeScript • Tailwind • ShadCN</code>
         </p>
         <div>
-          <a href="https://shuja-dev.vercel.app" target="_blank">
+          <a href="https://shujadev.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00FFB3" alt="Live Demo" />
           </a>
           <a href="https://github.com/shuja609/shujadev" target="_blank">
