@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/header-animation.gif" width="200px" alt="Developer Animation" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=940&lines=Mohammad+Shuja+Uddin+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Spring+Boot+%7C+Next.js+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=940&lines=Mohammad+Shuja+Uddin+%F0%9F%92%BB;Software+Engineer+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Spring+Boot+%7C+Next.js+%E2%9A%A1" alt="Typing SVG" />
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=Shuja609&style=for-the-badge&color=00FFB3&labelColor=000000" alt="Profile Views" />
