@@ -1,379 +1,181 @@
 <div align="center">
-  <img src="./assets/header-animation.gif" width="200px" alt="Developer Animation" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=940&lines=Mohammad+Shuja+Uddin+%F0%9F%92%BB;Software+Engineer+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Spring+Boot+%7C+Next.js+%E2%9A%A1" alt="Typing SVG" />
 
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Shuja609&style=for-the-badge&color=00FFB3&labelColor=000000" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Shuja609?style=for-the-badge&color=00FFB3&labelColor=000000" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/Shuja609?style=for-the-badge&color=00FFB3&labelColor=000000" alt="Stars" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=700&lines=Mohammad+Shuja+Uddin;AI+Solutions+Architect+%7C+Full+Stack+Developer;Building+AI+systems+with+99.86%25+accuracy" alt="Typing SVG" />
+
+  <p>
+    <a href="https://www.shuja.me"><img src="https://img.shields.io/badge/Portfolio-shuja.me-00FFB3?style=flat-square&labelColor=0D1117" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mohammad-shuja-uddin-a95118230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&labelColor=0D1117" alt="LinkedIn" /></a>
+    <a href="https://www.upwork.com/freelancers/~01225d147de583774d"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat-square&logo=upwork&labelColor=0D1117" alt="Upwork" /></a>
+    <a href="mailto:shujaqurashi2172@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&labelColor=0D1117" alt="Email" /></a>
+  </p>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=00FFB3&animation=fadeIn&fontAlignY=55" width="100%" alt="Header Wave" />
-</div>
+### About
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24px"/>
-  About Me
-</h2>
+I build AI automation systems and production-grade web applications. Recent projects include an ML agent with 99.86% prediction accuracy, e-commerce platforms scoring 98+ on Lighthouse, and fintech systems with military-grade encryption.
 
-<div align="left">
-  <img align="right" width="40%" src="./assets/coding.gif" alt="Coding Animation"/>
+**B.S. Software Engineering** — FAST NUCES, Islamabad *(Expected 2026)*  
+Available for freelance projects on **[Upwork](https://www.upwork.com/freelancers/~01225d147de583774d)** and **[Fiverr](https://www.fiverr.com/s/xXx3owD)**.
 
-  > *`Software Engineering student passionate about building high-performance, scalable, and efficient web applications`*
+---
 
-  ### 🎓 Education
-  - **Bachelor of Software Engineering** @ FAST National University of Computer & Emerging Sciences, Islamabad *(2022 - 2026)*
-    - Focus: Web Development, Data Structures, Software Architecture, Database Systems
-  
-  - **Cadet College Swat** *(2016 - 2021)*
-    - Strong foundation in mathematics and sciences
+### Tech Stack
 
-  ### 🚀 Current Focus
-  - MERN Stack Development
-  - Backend Architecture with Spring Boot
-  - Cloud-based Solutions
-  - Advanced Database Systems with MongoDB
-</div>
+| Domain | Technologies |
+|--------|-------------|
+| **Core Stack** | React 19, Next.js, TypeScript, Node.js, Python, FastAPI |
+| **Data & AI** | MongoDB, PostgreSQL, Supabase, LangChain, Scikit-learn |
+| **Infrastructure** | Docker, GitHub Actions, Vercel, AWS, AES-256-GCM |
 
-<br clear="right"/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFB3,100:4A86E8&height=75&section=header&text=Technical%20Expertise&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
-</div>
+### Featured Projects
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> 
-  Skills & Technologies
-</h2>
-
-<div align="center">
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        </a>
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        </a>
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
-        </a>
-        <br>SQL
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=html,css" width="65" height="65" />
-        </a>
-        <br>HTML/CSS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        </a>
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
-        </a>
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <div style="background-color: white; border-radius: 50%; height: 60px; width: 60px; display: flex; align-items: center; justify-content: center;">
-            <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50" />
-          </div>
-        </a>
-        <br>Express
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-        </a>
-        <br>REST API
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-        </a>
-        <br>GraphQL
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-        </a>
-        <br>Redux
-      </td>
-    </tr>
-    <tr style="background: rgba(0,0,0,0.1);">
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        </a>
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        </a>
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
-        </a>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="65" height="65" />
-        </a>
-        <br>Spring Boot
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <div style="background: white; border-radius: 50%; padding: 8px;">
-            <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" width="50" height="50" />
-          </div>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
-        </a>
-        <br>Tailwind
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="30"> 
-    Development Tools & Platforms
-  </h3>
-  
-  <div style="background: rgba(0,255,179,0.05); padding: 15px; border-radius: 10px; margin: 20px auto; max-width: 80%;">
-    <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=00FFB3&labelColor=000000" alt="git" />
-    <img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=000000" alt="github" />
-    <img src="https://img.shields.io/badge/vs%20code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=00FFB3&labelColor=000000" alt="VS Code" />
-    <img src="https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=00FFB3&labelColor=000000" alt="figma" />
-    <img src="https://img.shields.io/badge/postman-000000.svg?style=for-the-badge&logo=postman&logoColor=00FFB3&labelColor=000000" alt="postman" />
-  </div>
-  
-  <details>
-    <summary><b>🌟 Click to see more skills</b></summary>
-    <br>
-    <div style="background: linear-gradient(45deg, rgba(0,255,179,0.05), rgba(74,134,232,0.05)); padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase&logoColor=00FFB3&labelColor=000000" alt="firebase" />
-      <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=00FFB3&labelColor=000000" alt="vercel" />
-      <img src="https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=00FFB3&labelColor=000000" alt="linux" />
-      <img src="https://img.shields.io/badge/windows-000000.svg?style=for-the-badge&logo=windows&logoColor=00FFB3&labelColor=000000" alt="windows" />
-      <img src="https://img.shields.io/badge/jest-000000.svg?style=for-the-badge&logo=jest&logoColor=00FFB3&labelColor=000000" alt="jest" />
-      <img src="https://img.shields.io/badge/storybook-000000.svg?style=for-the-badge&logo=storybook&logoColor=00FFB3&labelColor=000000" alt="storybook" />
-    </div>
-  </details>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3498db,100:8e44ad&height=75&section=header&text=Projects%20Showcase&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  Featured Projects
-</h2>
-
-<div align="center">
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚗 DriveSync</h3>
-      <div align="center">
-        <a href="https://github.com/shuja609/DriveSync" target="_blank">
-          <img src="./assets/images/drivesync.png" alt="DriveSync" style="border-radius: 10px; border: 2px solid #00FFB3; box-shadow: 0 4px 8px rgba(0,255,179,0.3);"/>
-        </a>
-        <p>
-          <strong>Vehicle Management System</strong>
-          <br>
-          <code>MERN • JWT • Multer • Chart.js</code>
-        </p>
-        <div>
-          <a href="https://drive-sync-chi.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00FFB3" alt="Live Demo" />
-          </a>
-          <a href="https://github.com/shuja609/DriveSync" target="_blank">
-            <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=00FFB3" alt="Source Code" />
-          </a>
-        </div>
-      </div>
+      <h4 align="center">Lead Scoring AI Agent</h4>
+      <a href="https://github.com/shuja609/lead-scoring-agent"><img src="./assets/images/lead-scoring.webp" width="100%" alt="Lead Scoring AI"/></a>
+      <p align="center">Autonomous AI agent that predicts lead conversion using a 37-feature classification model with real-time dashboard.</p>
+      <p align="center">
+        <sub>Python · FastAPI · Scikit-learn · React · Railway</sub><br/>
+        <sub>99.86% accuracy · 2.3s response · 50% less time on cold leads</sub>
+      </p>
+      <p align="center">
+        <a href="https://github.com/shuja609/lead-scoring-agent">📂 Source</a>
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">👨‍💻 ShujaDev Portfolio</h3>
-      <div align="center">
-        <a href="https://github.com/shuja609/shujadev" target="_blank">
-          <img src="./assets/images/og-image.png" alt="ShujaDev Portfolio" style="border-radius: 10px; border: 2px solid #00FFB3; box-shadow: 0 4px 8px rgba(0,255,179,0.3);"/>
-        </a>
-        <p>
-          <strong>Modern Developer Portfolio</strong>
-          <br>
-          <code>React • TypeScript • Tailwind • ShadCN</code>
-        </p>
-        <div>
-          <a href="https://shujadev.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00FFB3" alt="Live Demo" />
-          </a>
-          <a href="https://github.com/shuja609/shujadev" target="_blank">
-            <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=00FFB3" alt="Source Code" />
-          </a>
-        </div>
-      </div>
+      <h4 align="center">E2EE Messaging System</h4>
+      <a href="https://github.com/shuja609/E2E_Project"><img src="./assets/images/e2ee-messaging-hero.webp" width="100%" alt="E2EE Messaging"/></a>
+      <p align="center">Zero-knowledge encrypted messaging with ECDH key exchange — the server never sees plaintext.</p>
+      <p align="center">
+        <sub>Next.js 16 · Web Crypto API · Socket.io · MongoDB</sub><br/>
+        <sub>AES-256-GCM encryption · ECDH key exchange · MITM prevention</sub>
+      </p>
+      <p align="center">
+        <a href="https://github.com/shuja609/E2E_Project">📂 Source</a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <h4>More Projects</h4>
-      <div style="display: flex; justify-content: center; gap: 10px;">
-        <a href="https://github.com/Shujaa-Dev/jewelry-store" target="_blank">
-          <img src="https://img.shields.io/badge/Jewelry_Store-000000?style=for-the-badge&logo=shopify&logoColor=00FFB3" alt="Jewelry Store" />
-        </a>
-        <a href="https://github.com/shuja609/admin-dashboard" target="_blank">
-          <img src="https://img.shields.io/badge/Admin_Dashboard-000000?style=for-the-badge&logo=redux&logoColor=00FFB3" alt="Admin Dashboard" />
-        </a>
-      </div>
+    <td width="50%">
+      <h4 align="center">Designer District — Luxury E-Commerce</h4>
+      <a href="https://designerdistrictglobal.com/"><img src="./assets/images/ddg-hero.webp" width="100%" alt="Designer District"/></a>
+      <p align="center">High-end fashion platform with session-aware promotions, automated admin dashboard, and Stripe payments.</p>
+      <p align="center">
+        <sub>Next.js 15 · Stripe · Supabase · Tailwind CSS 4</sub><br/>
+        <sub>98+ Lighthouse · Session-aware promos · 95% faster campaigns</sub>
+      </p>
+      <p align="center">
+        <a href="https://designerdistrictglobal.com/">🔗 Live</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">Boctrust Loan App — Enterprise Fintech</h4>
+      <a href="https://boctrustmfb.com/"><img src="./assets/images/boctrust-hero.webp" width="100%" alt="Boctrust"/></a>
+      <p align="center">Secure microfinance platform with AES-256-GCM encryption for PII data and automated security testing.</p>
+      <p align="center">
+        <sub>Node.js · MongoDB · AES-256-GCM · JWT · Jest</sub><br/>
+        <sub>96+ Lighthouse · 97% faster recovery · 200+ concurrent users</sub>
+      </p>
+      <p align="center">
+        <a href="https://boctrustmfb.com/">🔗 Live</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">3D Box Calculator — Design Tool</h4>
+      <a href="https://www.verpakkingenxl.nl/dozen/doos-op-maat/amerikaanse-vouwdoos-op-maat-fefco-201/"><img src="./assets/images/3d-box-hero.webp" width="100%" alt="3D Box Calculator"/></a>
+      <p align="center">Interactive 3D packaging configurator supporting 8+ FEFCO box types with real-time rendering.</p>
+      <p align="center">
+        <sub>Three.js · GSAP · Next.js · Supabase · i18next</sub><br/>
+        <sub>8+ FEFCO box types · Real-time 3D · Multi-language (EN/NL/DE)</sub>
+      </p>
+      <p align="center">
+        <a href="https://www.verpakkingenxl.nl/dozen/doos-op-maat/amerikaanse-vouwdoos-op-maat-fefco-201/">🔗 Live</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">Royal Devs — Agency Website</h4>
+      <a href="https://royal-devs.com/"><img src="./assets/images/royal-devs-hero.webp" width="100%" alt="Royal Devs"/></a>
+      <p align="center">Modern agency site with cinematic animations, SEO optimization, and automated CI/CD deployment.</p>
+      <p align="center">
+        <sub>Next.js 15 · React 19 · Framer Motion · Shadcn/UI</sub><br/>
+        <sub>100% Lighthouse score · 50% faster loads · CI/CD pipeline</sub>
+      </p>
+      <p align="center">
+        <a href="https://royal-devs.com/">🔗 Live</a>
+      </p>
     </td>
   </tr>
 </table>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
-</div>
+> *"Shuja delivered a complex fintech platform with military-grade encryption and 97% performance improvement — on time and with zero security incidents."*
+> — Ahmed R., Lead Developer, Boctrust MFB
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFB3,100:4A86E8&height=75&section=header&text=GitHub%20Activity&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git Stats" />
-  Activity & Statistics
-</h2>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=shuja609&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=shuja609&theme=default&hide_border=true&stroke=0000&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuja609&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" alt="GitHub Streak Stats" />
-  </picture>
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Profile%20Activity-76%25-00FFB3?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=000000" alt="Profile Activity" />
-    <img src="https://img.shields.io/badge/Current%20Streak-14%20Days-00FFB3?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=000000" alt="Current Streak" />
-    <img src="https://img.shields.io/badge/Lines%20of%20Code-50K+-00FFB3?style=for-the-badge&logo=code&logoColor=00FFB3&labelColor=000000" alt="Lines of Code" />
-  </div>
-  
-  <div style="display: flex; justify-content: center; margin: 25px 0;">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shuja609&show_icons=true&count_private=true&hide_border=true&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuja609&layout=compact&hide_border=true&title_color=00FFB3&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-  </div>
-</div>
-
-<div align="center">
-  <details>
-    <summary><b>🏆 GitHub Trophies</b></summary>
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=shuja609&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%" />
-  </details>
-</div>
-
-<div align="center">
-  <details>
-    <summary><b>📈 Contribution Graph</b></summary>
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuja609&bg_color=0d1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-  </details>
-</div>
-
-<div align="center">
-  <h3>🐍 Watch my contribution graph get eaten by the snake</h3>
-  <img src="https://github.com/shuja609/shuja609/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
-</div>
-
-<h2 align="center">
-  ✨ Currently Working On
-</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Enterprise%20Dashboard-000000?style=for-the-badge&logo=react&logoColor=00FFB3" alt="Enterprise Dashboard" />
-  <img src="https://img.shields.io/badge/MERN%20Stack%20Application-000000?style=for-the-badge&logo=mongodb&logoColor=00FFB3" alt="MERN Stack Application" />
-  <img src="https://img.shields.io/badge/Spring%20Boot%20Microservices-000000?style=for-the-badge&logo=springboot&logoColor=00FFB3" alt="Spring Boot Microservices" />
-</div>
-
-<h2 align="center">
-  🌐 Connect with Me
-</h2>
-
-<div align="center">
-  <a href="mailto:shujaqurashi2172@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FFB3" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mohammad-shuja-uddin-a95118230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFB3" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/shuja609" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFB3" />
-  </a>
-</div>
-
+<details>
+<summary><strong>More Projects</strong></summary>
 <br/>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h4>Crumble Craft</h4>
+      <a href="https://mama-cookies-one.vercel.app/"><img src="./assets/images/crumble-craft-hero.webp" width="100%" alt="Crumble Craft"/></a>
+      <p><sub>E-commerce with multi-step checkout and local payments</sub></p>
+      <sub>Next.js 15 · MongoDB · NextAuth.js</sub><br/>
+      <a href="https://mama-cookies-one.vercel.app/">🔗 Live</a>
+    </td>
+    <td width="33%" align="center">
+      <h4>Hardware Store</h4>
+      <a href="https://hardware-store-inky.vercel.app/"><img src="./assets/images/hardware-store-hero.webp" width="100%" alt="Hardware Store"/></a>
+      <p><sub>Equipment storefront with animated product showcases</sub></p>
+      <sub>Next.js 16 · GSAP · Radix UI</sub><br/>
+      <a href="https://hardware-store-inky.vercel.app/">🔗 Live</a>
+    </td>
+    <td width="33%" align="center">
+      <h4>Eventify</h4>
+      <a href="https://eventify-jet-one.vercel.app/"><img src="./assets/images/eventify-hero.webp" width="100%" alt="Eventify"/></a>
+      <p><sub>Event planning platform with scheduling and RSVPs</sub></p>
+      <sub>React 19 · Vite · Shadcn/UI</sub><br/>
+      <a href="https://eventify-jet-one.vercel.app/">🔗 Live</a>
+    </td>
+  </tr>
+</table>
+</details>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=500&height=60&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!" alt="Thanks" />
+---
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14,19,20,24&height=120&section=footer&animation=twinkling" width="100%" />
-</div>
+### Experience
+
+**Software Developer Intern** — Islamic Manpower Promoters *(Jun 2025 – Aug 2025)*
+- Developed and tested backend services using NestJS and Jest, ensuring robust and scalable application logic
+- Implemented process automation workflows using n8n and contributed to the development of an ERP system
+- Collaborated with the team to integrate new features and resolve bugs in a fast-paced agile environment
+- Enhanced code quality through rigorous unit testing and code reviews
+
+**Full Stack Developer Intern** — Craftlab *(Jun 2024 – Aug 2024)*
+- Built a client dashboard with React and integrated REST APIs for real-time order tracking
+- Developed reusable UI component library and implemented responsive layouts for client-facing products
+- Wrote automated tests and helped set up staging deployment pipelines using GitHub Actions
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuja609&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuja609&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  Have a project in mind? Let's talk → <a href="https://www.shuja.me"><strong>shuja.me</strong></a> · <a href="mailto:shujaqurashi2172@gmail.com"><strong>Email</strong></a>
+</p>
