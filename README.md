@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=700&lines=Mohammad+Shuja+Uddin;AI+Solutions+Architect+%7C+Full+Stack+Developer;Building+AI+systems+with+99.86%25+accuracy" alt="Typing SVG" />
 
   <p>
-    <a href="https://www.shuja.me"><img src="https://img.shields.io/badge/Portfolio-shuja.me-00FFB3?style=flat-square&labelColor=0D1117" alt="Portfolio" /></a>
+    <a href="https://www.shuja.app"><img src="https://img.shields.io/badge/Portfolio-shuja.app-00FFB3?style=flat-square&labelColor=0D1117" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/mohammad-shuja-uddin-a95118230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&labelColor=0D1117" alt="LinkedIn" /></a>
     <a href="https://www.upwork.com/freelancers/~01225d147de583774d"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat-square&logo=upwork&labelColor=0D1117" alt="Upwork" /></a>
     <a href="mailto:shujaqurashi2172@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&labelColor=0D1117" alt="Email" /></a>
@@ -177,5 +177,5 @@ Available for freelance projects on **[Upwork](https://www.upwork.com/freelancer
 ---
 
 <p align="center">
-  Have a project in mind? Let's talk → <a href="https://www.shuja.me"><strong>shuja.me</strong></a> · <a href="mailto:shujaqurashi2172@gmail.com"><strong>Email</strong></a>
+  Have a project in mind? Let's talk → <a href="https://www.shuja.app"><strong>shuja.app</strong></a> · <a href="mailto:shujaqurashi2172@gmail.com"><strong>Email</strong></a>
 </p>
